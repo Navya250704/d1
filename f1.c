@@ -5,4 +5,7 @@ main()
    printf("Addition");
 }
    sub();
+{
+   printf("Subtraction");
+}
 }
